@@ -1,6 +1,4 @@
 # Cybersecurity-and-ML
-Network Traffic Classifier
-
 ## Overview
 This project is focused on the classification of network traffic data to identify potential intrusions. The codebase includes data loading, preprocessing, feature extraction, model training, and evaluation phases with the utilization of two datasets: KDD and UNSW-NB15. The datasets are subjected to normalization, encoding, dimensionality reduction using Independent Component Analysis (ICA), and feature selection using Feature from Model (FFM). The classification is performed by Support Vector Machine (SVM).
 
